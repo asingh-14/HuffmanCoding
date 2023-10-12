@@ -24,7 +24,7 @@ To test this project, follow these steps:
 1. Ensure you have Python installed on your system.
 2. Clone or download this project repository.
 3. Open a terminal/command prompt and navigate to the project directory.
-4. Run the file titled "huffman.py"
+4. Run the file titled "huffmanCompression.py"
 5. Enter the name of the file you want to compress in the terminal "sample.txt"
 6. The compressed binary and corresponding decompressed text file will be generated in the same directory as the script.
 
